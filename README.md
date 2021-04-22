@@ -42,37 +42,37 @@ The code that I was writing started feeling like a puzzle, an escape room to be 
 [<img src="https://img.shields.io/badge/Babel-282C34?logo=babel&logoColor=F9DC3E" alt="Node.js logo" title="Node.js" height="25" />][learning_now_anchor]
 &nbsp;
 
+
 ## :iphone:Applications
 
 
-### 1) waitless
+### 1) waitless  <a href="https://waitless-restaurant.herokuapp.com/">Live Site</a> | <a href="https://github.com/KennethDelaCruz/waitless">Source Code</a>
 A full-stack application consisting of JavaScript, React.js, Node.js that lets users search <br />
 for restaurants using their geolocation that have waitlist/reservations available.
 
-[<img src="https://user-images.githubusercontent.com/69921839/115637371-da9dda80-a2c4-11eb-95cc-b0b29b5f9301.png" alt="waitless:geoSearch" height="400px">][waitless_application]
-[<img src="https://user-images.githubusercontent.com/69921839/115637559-46804300-a2c5-11eb-91bd-583637d86bee.png" alt="restaurant search results" height="400px">][waitless_application]
-[<img src="https://user-images.githubusercontent.com/69921839/115637709-a840ad00-a2c5-11eb-84ba-641ed905175a.png" alt="waitless form" height="400px">][waitless_application]
-[<img src="https://user-images.githubusercontent.com/69921839/115637728-b42c6f00-a2c5-11eb-8eef-da32e6c237aa.png" alt="completed waitless form" height="400px">][waitless_application]
-
-[<img src="https://user-images.githubusercontent.com/69921839/115637790-e2aa4a00-a2c5-11eb-8bf4-6e3490ffffbc.png" alt="city search form" height="400px">][waitless_application]
-[<img src="https://user-images.githubusercontent.com/69921839/115637878-12f1e880-a2c6-11eb-9a6a-256c7ae0f3b9.png" alt="edit reservation" height="400px">][waitless_application]
-[<img src="https://user-images.githubusercontent.com/69921839/115637919-2ac96c80-a2c6-11eb-992c-30c473dde79d.png" alt="completed edit form" height="400px">][waitless_application]
-[<img src="https://user-images.githubusercontent.com/69921839/115637894-1b4a2380-a2c6-11eb-8849-937978300077.png" alt="cancel reservation" height="400px">][waitless_application]
+[<img src="https://user-images.githubusercontent.com/69921839/115765448-a1647980-a35b-11eb-958c-a0b7d9ca4abd.gif" alt="waitless:geoSearch" height="400px">][waitless_application]
+[<img src="https://user-images.githubusercontent.com/69921839/115765617-da9ce980-a35b-11eb-9ea2-8a7c0874bec8.gif" alt="restaurant search results" height="400px">][waitless_application]
 
 
-### 2) Route1
+
+### 2) Route1 <a href="https://kennethdelacruz.github.io/route1/">Live Site</a> | <a href="https://github.com/KennethDelaCruz/route1">Source Code</a>
 An application that lets the user find more information on their favorite pokemon! <br />
 It will also let the users find a random pokemon and add any pokemon to a list of favorites.
 
-[<img src="https://user-images.githubusercontent.com/69921839/115638989-59484700-a2c8-11eb-94cd-1566696783ac.png" alt="Route1 main screen" height="400px">][route1_application]
-[<img src="https://user-images.githubusercontent.com/69921839/115639038-767d1580-a2c8-11eb-8a79-6a5095747764.png" alt="pokemon search screen" height="400px">][route1_application]
-[<img src="https://user-images.githubusercontent.com/69921839/115639087-97de0180-a2c8-11eb-889e-a8b069622c75.png" alt="favorites screen" height="400px">][route1_application]
+[<img src="https://user-images.githubusercontent.com/69921839/115765079-29964f00-a35b-11eb-9fee-8ecbd5cadfad.gif" alt="Route1 main screen" height="400px">][route1_application]
+
+
+
+
 
 
 ## :telephone_receiver:Contact Me
+<a target="_blank" href="https://www.linkedin.com/in/kenneth-dela-cruz/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="kennethdc2693@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
 [learning_next_anchor]: #learning-next
 [waitless_application]: #waitless
 [route1_application]: #route1
+
