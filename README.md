@@ -1,10 +1,15 @@
-# Hi! I'm Kenneth :wave:
+# Hi! I'm Kenneth :wave::grin:
 
-### About me:
+[![Kenneth's GitHub stats](https://github-readme-stats.vercel.app/api?username=KennethDelaCruz&theme=yeblu&show_icons=true&hide=contribs,stars)](https://github.com/KennethDelaCruz/github-readme-stats)
 
-I stumbled on learning how to code from pure curiosity for it. I looked into freecodecamp and started doing their curriculum with the enjoyment of making minor movements to a page with just typing out the syntax. It was fun to me because I enjoyed typing anything. As I dove into JavaScript, thats where my interest for code skyrocketed! The code that I was writing started feeling like a puzzle, an escape room to be exact. Giving the computer a set list of instructions that will carry out task. In my eyes, this was similar to solving the small puzzles in an escape room to complete/escape the room. The enjoyment from completing features or solving hard bugs was comparible to finally having a breakthrough in a puzzle. Tt could be the most infuriating bug, but at the end it is just so satisfying to finally get over that bump in the road. 
+## About me
 
-### Languages and Tools:
+
+I stumbled on learning how to code from pure curiosity for it. I looked into freecodecamp and started doing their curriculum with the enjoyment of making minor movements to a page with just typing out the syntax. It was fun to me because I enjoyed typing anything. As I dove into JavaScript, thats where my interest for code skyrocketed!
+
+The code that I was writing started feeling like a puzzle, an escape room to be exact. Giving the computer a set list of instructions that will carry out task. In my eyes, this was similar to solving the small puzzles in an escape room to complete/escape the room. The enjoyment from completing features or solving hard bugs was comparible to finally having a breakthrough in a puzzle. It could be the most infuriating bug, but at the end it is just so satisfying to finally get over that bump in the road. 
+
+## :video_game:Languages and Tools:
 
 
 [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
@@ -24,6 +29,8 @@ I stumbled on learning how to code from pure curiosity for it. I looked into fre
 <br />
 [<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][learning_now_anchor]
 &nbsp;
+[<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=000000" alt="Node.js logo" title="Node.js" height="25" />][learning_now_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=336791" alt="Node.js logo" title="Node.js" height="25" />][learning_now_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Webpack-282C34?logo=webpack&logoColor=8DD6F9" alt="Node.js logo" title="Node.js" height="25" />][learning_now_anchor]
@@ -35,16 +42,30 @@ I stumbled on learning how to code from pure curiosity for it. I looked into fre
 [<img src="https://img.shields.io/badge/Babel-282C34?logo=babel&logoColor=F9DC3E" alt="Node.js logo" title="Node.js" height="25" />][learning_now_anchor]
 &nbsp;
 
+## :iphone:Applications
 
 
-[![Kenneth's GitHub stats](https://github-readme-stats.vercel.app/api?username=KennethDelaCruz)](https://github.com/KennethDelaCruz/github-readme-stats)
+### 1) waitless
+A full-stack application consisting of JavaScript, React.js, Node.js that lets users search <br />
+for restaurants using their geolocation that have waitlist/reservations available.
+
+[<img src="https://user-images.githubusercontent.com/69921839/115637371-da9dda80-a2c4-11eb-95cc-b0b29b5f9301.png" alt="waitless:geoSearch" height="400px">][waitless_application]
+[<img src="https://user-images.githubusercontent.com/69921839/115637559-46804300-a2c5-11eb-91bd-583637d86bee.png" alt="waitless:geoSearch" height="400px">][waitless_application]
+[<img src="https://user-images.githubusercontent.com/69921839/115637709-a840ad00-a2c5-11eb-84ba-641ed905175a.png" alt="waitless:geoSearch" height="400px">][waitless_application]
+[<img src="https://user-images.githubusercontent.com/69921839/115637728-b42c6f00-a2c5-11eb-8eef-da32e6c237aa.png" alt="waitless:geoSearch" height="400px">][waitless_application]
+
+[<img src="https://user-images.githubusercontent.com/69921839/115637790-e2aa4a00-a2c5-11eb-8bf4-6e3490ffffbc.png" alt="waitless:geoSearch" height="400px">][waitless_application]
+[<img src="https://user-images.githubusercontent.com/69921839/115637878-12f1e880-a2c6-11eb-9a6a-256c7ae0f3b9.png" alt="waitless:geoSearch" height="400px">][waitless_application]
+[<img src="https://user-images.githubusercontent.com/69921839/115637919-2ac96c80-a2c6-11eb-992c-30c473dde79d.png" alt="waitless:geoSearch" height="400px">][waitless_application]
+[<img src="https://user-images.githubusercontent.com/69921839/115637894-1b4a2380-a2c6-11eb-8849-937978300077.png" alt="waitless:geoSearch" height="400px">][waitless_application]
 
 
 
-### Applications
 
-### Contact Me
+
+## :telephone_receiver:Contact Me
 
 [tech_tools_anchor]: #bonjour--
 [learning_now_anchor]: #learning-now
 [learning_next_anchor]: #learning-next
+[waitless_application]: #waitless
