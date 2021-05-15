@@ -1,6 +1,7 @@
 # Hi! I'm Kenneth :wave::grin:
 
-[![Kenneth's GitHub stats](https://github-readme-stats.vercel.app/api?username=KennethDelaCruz&theme=yeblu&show_icons=true&hide=contribs,stars)](https://github.com/KennethDelaCruz/github-readme-stats)
+[![Kenneth's GitHub stats](https://github-readme-stats.vercel.app/api?username=KennethDelaCruz&theme=yeblu&show_icons=true&hide=contribs,stars)](https://github.com/KennethDelaCruz/github-readme-stats)<br />
+![](https://komarev.com/ghpvc/?username=KennethDelaCruz&style=flat-square)
 
 ## About me
 
