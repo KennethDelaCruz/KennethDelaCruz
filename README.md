@@ -28,19 +28,25 @@ The code that I was writing started feeling like a puzzle, an escape room to be 
 [<img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />][tech_tools_anchor]
 &nbsp;
 <br />
-[<img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][learning_now_anchor]
+[<img src="https://img.shields.io/badge/Node.js-282C34?logo=node-js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />][learning_now_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=000000" alt="Node.js logo" title="Node.js" height="25" />][learning_now_anchor]
+[<img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=000000" alt="express logo" title="Node.js" height="25" />][learning_now_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=336791" alt="Node.js logo" title="Node.js" height="25" />][learning_now_anchor]
+[<img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=postgresql&logoColor=336791" alt="postgresql logo" title="Node.js" height="25" />][learning_now_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Webpack-282C34?logo=webpack&logoColor=8DD6F9" alt="Node.js logo" title="Node.js" height="25" />][learning_now_anchor]
+[<img src="https://img.shields.io/badge/Webpack-282C34?logo=webpack&logoColor=8DD6F9" alt="WebPack logo" title="Node.js" height="25" />][learning_now_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=181717" alt="Node.js logo" title="Node.js" height="25" />][learning_now_anchor]
+[<img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=181717" alt="GitHub logo" title="Node.js" height="25" />][learning_now_anchor]
 &nbsp;
-[<img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E" alt="Node.js logo" title="Node.js" height="25" />][learning_now_anchor]
+[<img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E" alt="Figma logo" title="Node.js" height="25" />][learning_now_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/Babel-282C34?logo=babel&logoColor=F9DC3E" alt="Node.js logo" title="Node.js" height="25" />][learning_now_anchor]
+&nbsp;
+
+### Currently Learning
+[<img src="https://img.shields.io/badge/CSharp-282C34?logo=c-sharp&logoColor=239120" alt="C Sharp logo" title="C Sharp" height="25" />][learning_now_anchor]
+&nbsp;
+[<img src="https://img.shields.io/badge/AWS-282C34?logo=amazon-aws&logoColor=fffffff" alt="Node.js logo" title="Node.js" height="25" />][learning_now_anchor]
 &nbsp;
 
 
